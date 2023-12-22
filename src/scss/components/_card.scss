@@ -9,8 +9,7 @@
 		func.em(60, var.$font-size-primary);
 	background-color: var.$color-white;
 	border-radius: 8px;
-	box-shadow: 0 func.em(16, var.$font-size-primary)
-		func.em(30, var.$font-size-primary) rgba(0, 0, 0, 0.04);
+	box-shadow: 0 16px 30px rgba(0, 0, 0, 0.04);
 	overflow: hidden;
 }
 
