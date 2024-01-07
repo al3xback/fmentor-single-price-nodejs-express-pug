@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-single-price-nodejs-express-pug",
 	"version": "1.0.0",
-	"description": "single price grid component using nodejs with express framework and pug template engine",
+	"description": "single price grid component using nodejs, express, and pug",
 	"main": "app.js",
 	"scripts": {
 		"start": "nodemon app.js",
